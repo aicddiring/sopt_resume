@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue
+}
+
+.list{
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 4vw;
+}
+
+h1{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 64px;
+    color:blue;
+}
+
+#layout{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    margin-left: 4vw;
+}
+
+.order{
+    margin-left: 4vw;
+}
